@@ -17,6 +17,5 @@
 |2021|2|
 
 * untuk dokumentasi API kalian bisa lihat di sini :
-    * [dokumentasi API](https://documenter.getpostman.com/view/15280518/TzY1gbS7)
-
-![gambar](https://github.com/AsrofurRizqi/rrr/blob/master/123642526_1300138916987498_5831591023154042738_n.jpg?raw=true)
+   
+   [<img width=200px src="https://www.pinclipart.com/picdir/big/22-220570_book-png-images-download-open-book-png-book.png"/>](https://documenter.getpostman.com/view/15280518/TzY1gbS7)
