@@ -4,7 +4,7 @@ const booksControllers = require("../controllers/booksControllers");
 // const authMiddleware = require("../helpers/authMiddleware");
 
 booksRoutes.get("/",
- authMiddleware.checkLogin, 
+//  authMiddleware.checkLogin, 
 booksControllers.getAllBooks);
 booksRoutes.post("/",
 authMiddleware.checkLogin,
