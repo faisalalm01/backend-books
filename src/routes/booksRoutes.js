@@ -7,7 +7,7 @@ booksRoutes.get("/",
 //  authMiddleware.checkLogin, 
 booksControllers.getAllBooks);
 booksRoutes.post("/",
-authMiddleware.checkLogin,
+// authMiddleware.checkLogin,
 booksControllers.postBooks);
 booksRoutes.get("/:id",booksControllers.getDataById);
 booksRoutes.delete("/:id",
